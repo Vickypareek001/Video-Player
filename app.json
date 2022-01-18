@@ -2,7 +2,7 @@
     "name": "Video-Player",
     "description": "Music allow you to Video/Audio stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/ITZ-ZAID/Video-Player",
+    "repository": "https://github.com/Singing_music_Idol/Video-Player",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": ""
+            "value": " @just_go_to_hell_1 "
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
@@ -37,15 +37,15 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "Superior_Support"
+            "value": "Singing_music_Idol"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "Superior_Bots"
+            "value": "Singing_music_Idol"
         },
         "SUDO_USERS": {
-            "description": " add @Zaid2_Robot and Type /id fill with the user id who can access all function in your bot (separate with space).",
+            "description": " add @Singing_music_Idol and Type /id fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
             "value": ""
         },
