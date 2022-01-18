@@ -1,5 +1,5 @@
 {
-    "name": "Video-Player",
+    "name": "Singing-music",
     "description": "Music allow you to Video/Audio stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/Singing_music_Idol/Video-Player",
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": " @just_go_to_hell_1 "
+            "value": ""
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
